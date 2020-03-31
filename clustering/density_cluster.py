@@ -38,7 +38,7 @@ def den_cluster(data): #data={dev(int):attr([tuples])},return list of list of tu
             r=bins[-1]
         else:
             r=boundaries[i]
-        edges.append((l,r))'''
+        edges.append((l,r))'''#原聚类方法，效果不如下面简单粗暴的方法
     edges=[]
     i=0
     while(i<len(hists)):
