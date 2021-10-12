@@ -60,7 +60,7 @@ networkx==2.4
 nltk==3.4.5
 notebook==6.0.3
 numpy==1.17.0
-opencv-python==3.4.5.20
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 pandas==0.24.2
 pandas-datareader==0.8.1
